@@ -14,6 +14,17 @@ bash <(curl https://github.com/Oozwding/settingfiles/blob/master/installvimrc.sh
 <b>Attention</b>:这个操作会将你原来的设置备份到你的家目录下,所有设置在Ubuntu 16.04测试通过
 * 使用bundle安装插件，有个yumyoucompleteme插件安装比较麻烦，具体安装方法参考[github项目地址](
 https://github.com/Valloric/YouCompleteMe)
+* 配置MarkDown previewing via *vim-instant-markdown*<br>
+	<b>Extra installation for vim-instant-markdown</b>
+	- 首先要求你的电脑上先装有nodejs环境，然后执行下面这个命令<br>
+	<code>
+	[sudo] npm -g install instant-markdown-d
+	</code>
+	- xdg-utils package需要被安装（ubuntu默认已经安装）
+	- 然后打开一个.md文件，浏览器自动会切换到previewing
+
+
+	![MarkDown Previewing]()
 * 配置完成
 ##### Plugins
 [tomasr/molokai](https://github.com/tomasr/molokai)<br>
