@@ -9,11 +9,10 @@ bundle插件管理器，内置多种插件（后面列出）</br>
 ##### 配置步骤
 * 在terminal运行下面这个命令<br>
 <code>
-bash <(curl https://github.com/Oozwding/settingfiles/blob/master/installvimrc.sh -L)>
+bash <(curl https://github.com/Oozwding/settingfiles/blob/master/installvimrc.sh -L)
 </code><br>
 <b>Attention</b>:这个操作会将你原来的设置备份到你的家目录下,所有设置在Ubuntu 16.04测试通过
-* 打开vim，输入:BundleInstall<br>
-使用bundle安装插件，有个yumyoucompleteme插件安装比较麻烦，具体安装方法参考[github项目地址](
+* 使用bundle安装插件，有个yumyoucompleteme插件安装比较麻烦，具体安装方法参考[github项目地址](
 https://github.com/Valloric/YouCompleteMe)
 * 配置完成
 ##### Plugins
