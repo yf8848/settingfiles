@@ -24,7 +24,7 @@ https://github.com/Valloric/YouCompleteMe)
 	- 然后打开一个.md文件，浏览器自动会切换到previewing
 	![MarkDown
 	Previewing](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/1.png)
-* 配置完成
+* 配置完成<br>
 ##### Plugins
 [tomasr/molokai](https://github.com/tomasr/molokai)<br>
 [scrooloose/nerdtree](https://github.com/crooloose/nerdtree)<br>
