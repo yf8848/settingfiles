@@ -25,7 +25,9 @@ https://github.com/Valloric/YouCompleteMe)
 	![MarkDown
 	Previewing](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/1.png)
 * 配置完成<br>
-##### Plugins
+
+
+##### Plugins<br>
 [tomasr/molokai](https://github.com/tomasr/molokai)<br>
 [scrooloose/nerdtree](https://github.com/crooloose/nerdtree)<br>
 [tpope/vim-markdown](https://github.com/tpope/vim-markdown)<br>
