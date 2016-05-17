@@ -22,9 +22,8 @@ https://github.com/Valloric/YouCompleteMe)
 	</code>
 	- xdg-utils package需要被安装（ubuntu默认已经安装）
 	- 然后打开一个.md文件，浏览器自动会切换到previewing
-
-
-	![MarkDown Previewing]()
+	![MarkDown
+	Previewing](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/1.png)
 * 配置完成
 ##### Plugins
 [tomasr/molokai](https://github.com/tomasr/molokai)<br>
@@ -51,3 +50,8 @@ https://github.com/Valloric/YouCompleteMe)
 [Bmajutsushi/tagbar](https://github.com/Bmajutsushi/tagbar)<br>
 [vim-scripts/taglist.vim](https://github.com/vim-scripts/taglist.vim)<br>
 * 欢迎各位入坑
+* 部分截图
+![1](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/2.png)
+![1](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/3.png)
+![1](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/4.png)
+![1](https://github.com/Oozwding/settingfiles/blob/master/screenshorts/5.png)
